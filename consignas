@@ -1,0 +1,39 @@
+Fundamentación
+    El Trabajo Final Integrador tiene como propósito recuperar e integrar los contenidos desarrollados durante el cursado de la asignatura mediante la resolución de una problemática concreta utilizando Python.
+
+    La propuesta busca que las y los estudiantes puedan aplicar los conocimientos adquiridos en relación con estructuras de control, modularización, validaciones y resolución algorítmica de problemas, promoviendo además el desarrollo de habilidades vinculadas al pensamiento crítico, la comunicación técnica, el trabajo colaborativo y la toma de decisiones dentro de un equipo de desarrollo.
+
+    Asimismo, el trabajo pretende incorporar herramientas y dinámicas propias del desarrollo profesional de software, promoviendo el uso de repositorios Git, la organización progresiva del código y el uso responsable y crítico de herramientas de Inteligencia Artificial como apoyo al aprendizaje y a la programación
+
+Objetivos
+    A través del desarrollo del Trabajo Final Integrador se espera que las y los estudiantes logren:
+
+    .aplicar estructuras condicionales y repetitivas en la resolución de problemas;
+    .diseñar soluciones algorítmicas utilizando Python;
+    .modularizar programas mediante funciones;
+    .implementar validaciones y manejo básico de errores;
+    .desarrollar estrategias de resolución y depuración de problemas;
+    .fortalecer el pensamiento crítico frente a soluciones propuestas por herramientas de Inteligencia Artificial;
+    .trabajar colaborativamente dentro de un equipo de desarrollo;
+    .comunicar y defender técnicamente una solución implementada;
+    .utilizar GitHub o GitLab como herramienta básica de organización y trabajo colaborativo;
+    .comprender integralmente el funcionamiento del sistema desarrollado.
+
+Modalidad de trabajo
+    1. El trabajo deberá realizarse en grupos de entre 3 y 5 integrantes, ni más ni menos.
+    2. Cada equipo desarrollará un sistema basado en uno de los escenarios propuestos por la cátedra. Los escenarios serán asignados al azar por el equipo docente.
+    3. Todos los sistemas deberán desarrollarse utilizando Python y ejecutarse por consola.
+    4. La solución implementada deberá contemplar el uso de:
+        a. estructuras condicionales;
+        b. estructuras repetitivas;
+        c. funciones;
+        d. validaciones;
+        e. acumuladores y contadores;
+        f. modularización básica;
+        g. manejo básico de errores y mensajes al usuario.
+    5. Se espera que cada grupo diseñe una solución funcional y coherente con el escenario asignado, incorporando distintas alternativas de interacción y validación de datos.
+
+Sistema de biblioteca
+    El sistema deberá gestionar préstamos y devoluciones dentro de una biblioteca. La solución podrá incluir registro de usuarios, préstamos de libros, devoluciones, control de disponibilidad y cálculo de multas simples por demora.
+
+    Asimismo, podrá incorporar estadísticas relacionadas con libros más solicitados o cantidad de préstamos realizados.
